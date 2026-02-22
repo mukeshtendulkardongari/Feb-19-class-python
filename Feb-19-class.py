@@ -1,4 +1,4 @@
-# numbers greater than key
+# Numbers greater than key value:
 
 l=list(map(int,input("Enter list values:").split()))
 k=int(input("Enter key value:"))
@@ -32,7 +32,7 @@ print(res)
 # Enter list values:23 54 234 34 23 75 98
 # 234
 
-# second largest number
+# second largest number in a list:
 
 l=list(map(int,input("Enter list values:").split()))
 
@@ -51,7 +51,7 @@ print(max2)
 # 86
 
 
-# least and second least numbers from the list
+# least and second least numbers in a list:
 
 l=list(map(int,input("Enter list values:").split()))
 
@@ -92,3 +92,4 @@ print("total chocolates:",choc)
 # total chocolates: 14
 # Enter amount:1000
 # total chocolates: 1499
+
